@@ -1,0 +1,9 @@
+/vendor/
+/var/
+/.env
+/.env.local
+/.env.*.local
+/.ddev/
+/.idea/
+/.vscode/
+.DS_Store
